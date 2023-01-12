@@ -1,0 +1,3 @@
+[submodule "problems_day_3/problems_day_3/c_practice_question"]
+	path = problems_day_3/problems_day_3/c_practice_question
+	url = https://github.com/Srutig20/c_practice_question.git
